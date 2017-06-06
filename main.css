@@ -1,0 +1,40 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-color: #ececec;
+}
+
+.fa-desktop{
+	color: #a92ec7;
+	font-size: 28px;
+}
+
+.name-home-site{
+	margin-left: 10px;
+	font-size: 28px;
+	text-transform: uppercase;
+}
+
+.container-um{
+	margin-top: 80px;
+}
+
+.container-dois{
+	background: #8dadb9;
+	display: inline-block;
+	position: relative;
+	width: 100%;
+}
+
+.banner{
+	padding: 90px 0 0;
+	background: url(../img/fundo2.jpg);
+	background-repeat: repeat-x;
+	z-index: 1000;
+	width: 100%;
+	height: 700px;
+	font-weight: 400;
+}
